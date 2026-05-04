@@ -7,7 +7,7 @@ from PIL import Image
 # --- 1. قاموس اللغات ---
 LANGUAGES = {
     "English": {
-        "title": "RetinaCheck AI: Early Diagnosis System",
+        "title": "Diabetic retinopathy detected through deep learning",
         "sub": "AI-powered system to assist doctors in detecting retinal diseases.",
         "upload": "Please upload a fundus image...",
         "orig": "Original Image",
@@ -22,7 +22,7 @@ LANGUAGES = {
         "auto_msg": "System detected: "
     },
     "Türkçe": {
-        "title": "RetinaCheck AI: Erken Teşhis Sistemi",
+        "title": "Derin öğrenme yoluyla tespit edilen diyabetik retinopati",
         "sub": "Doktorlara retina hastalıklarını tespit etmede yardımcı olan yapay zeka sistemi.",
         "upload": "Lütfen fundus görüntüsünü yükleyin...",
         "orig": "Orijinal Görüntü",
